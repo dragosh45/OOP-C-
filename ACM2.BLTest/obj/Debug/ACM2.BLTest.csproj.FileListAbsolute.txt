@@ -1,0 +1,16 @@
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\ACM2.BLTest.dll
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\ACM2.BLTest.pdb
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\ACM2.dll
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\ACM2.pdb
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\drago\source\repos\ACM2.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\drago\source\repos\ACM2.BLTest\obj\Debug\ACM2.BLTest.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\ACM2.BLTest\obj\Debug\ACM2.BLTest.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\ACM2.BLTest\obj\Debug\ACM2.BLTest.dll
+C:\Users\drago\source\repos\ACM2.BLTest\obj\Debug\ACM2.BLTest.pdb
+C:\Users\drago\source\repos\ACM2.BLTest\obj\Debug\ACM2.BLTest.csproj.CopyComplete
